@@ -10,6 +10,18 @@ Experienced QA professional with a strong background in manual and automation te
 
 I am a dedicated QA professional with experience at Tata Consultancy Services (TCS), where I focused on testing banking applications. My work involved both manual and automation testing, and I have a proven track record of identifying and documenting defects, contributing to a significant decrease in post-deployment issues. I'm passionate about ensuring high-quality software and continuously expanding my technical skillset.
 
+
+## Education
+
+**Master of Science in Data Analytics** 
+Clark University, Worcester, MA - 2024 to 2025
+
+**B-Tech** 
+Sir C R Reddy College of Engineering, Eluru - 2016 to 2020 
+
+
+
+
 ## Skills
 
 * **Data Analytics & Visualization:** Tableau, Power BI
@@ -106,14 +118,4 @@ This project explores the impact of different post-weld heat treatments on the c
 **Modules Used:** Metallography, Electrochemical Corrosion Analysis  
 **Final Report:** Includes polarization plots, microstructure images, and comparative analysis of CST vs T6 treatments
 The study supports the development of durable aluminum alloy joints for aerospace and automotive applications by optimizing weld treatment processes.
-
-
-## Education
-
-**Master of Science in Data Analytics** 
-Clark University, Worcester, MA - 2025 
-
-**B-Tech** 
-Sir C R Reddy College of Engineering, Eluru - 2020 
-
 
