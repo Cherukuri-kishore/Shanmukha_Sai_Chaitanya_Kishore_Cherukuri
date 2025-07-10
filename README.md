@@ -1,11 +1,10 @@
 # Shanmukha Sai Chaitanya Kishore, Cherukuri
 
-## Contact Me
+Experienced QA professional with a strong background in manual and automation testing, focusing on banking applications. Successfully contributed to defect reduction using Microsoft Dynamics 365 CRM. Completed projects in database validation, accessibility testing with NVDA, and PLC-based AGV automation. Skilled in Python, SQL, Power BI, Azure, and currently pursuing a Master's in Data Analytics.
 
+## Contact Me
 * **Email:** Chaitanyakishore.cherukuri@gmail.com 
 * **Phone:** 7745257509 
-
-Experienced QA professional with a strong background in manual and automation testing, focusing on banking applications. Successfully contributed to defect reduction using Microsoft Dynamics 365 CRM. Completed projects in database validation, accessibility testing with NVDA, and PLC-based AGV automation. Skilled in Python, SQL, Power BI, Azure, and currently pursuing a Master's in Data Analytics.
 
 ## About Me
 
@@ -68,7 +67,7 @@ I am a dedicated QA professional with experience at Tata Consultancy Services (T
 
 ## Others projects
 
-## Chronic Disease & Premature Mortality Analysis using Python programming
+### ➡️ Chronic Disease & Premature Mortality Analysis using Python programming
 
 * This project analyzes the correlation between chronic diseases and premature mortality across U.S. states using CDC data from 2010–2023. The analysis identifies demographic and regional disparities influenced by poverty and lack of insurance.
 
@@ -84,11 +83,30 @@ I am a dedicated QA professional with experience at Tata Consultancy Services (T
 **Modules:** pandas, matplotlib, seaborn  
 **Final Report:** Includes data cleaning, visual analysis by state, gender, race, and social factors to inform health policy.
 
+### ➡️ Amazon Selling Workflow Database Project
+
+* This project models the complete workflow of selling products on Amazon through a relational database system. It captures all major processes including product listing by sellers, warehousing, consumer account creation, order placement, shipment tracking, and delivery by carriers. The database is designed using business rules and relationships that reflect real-world Amazon operations.
+
+The project includes five core operational aspects:
+1. New product creation by sellers.
+2. Product receipt and inventory management in warehouses.
+3. Consumer account creation and management.
+4. Order placement and popular product tracking.
+5. Product shipment and delivery tracking.
 
 
-## Automated Fire Fighting AGV Using Digital Controller 
-* Collaborated with a team to design and implement PLC code for an Automated Fire Fighting AGV using sensor and device inputs based on a finalized operational model. 
-* Debugged and tested the PLC program to ensure functionality aligned with the designed model and project requirements. 
+### ➡️ Automated Fire Fighting AGV Using Digital Controller 
+* This project develops an Automated Guided Vehicle (AGV) with a PLC to autonomously detect and extinguish fires. It aims to reduce human risk in hazardous environments like factories using various sensors. The system provides an efficient, automated firefighting solution to enhance safety and minimize losses. Key components include a Delta DVP12SA2 PLC and multiple sensors.
+  
+### ➡️ Pitting Corrosion Behavior of Post-Weld Heat Treated AA7075-T651 Alloy
+
+This project explores the impact of different post-weld heat treatments on the corrosion resistance of AA7075-T651 aluminum alloy welded using Friction Stir Welding (FSW). We examine how treatments like Cyclic Solution Treatment (CST) and T6 artificial aging influence the material's microstructure and resistance to pitting corrosion.
+**Data Source:** Experimental data from laboratory tests on AA7075-T651 alloy plates  
+**Tools & Equipment:** Dynamic Polarization Test (GILL AC), Optical Microscope  
+**Modules Used:** Metallography, Electrochemical Corrosion Analysis  
+**Final Report:** Includes polarization plots, microstructure images, and comparative analysis of CST vs T6 treatments
+The study supports the development of durable aluminum alloy joints for aerospace and automotive applications by optimizing weld treatment processes.
+
 
 ## Education
 
