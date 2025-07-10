@@ -1,5 +1,10 @@
 # Shanmukha Sai Chaitanya Kishore, Cherukuri
 
+## Contact Me
+
+* **Email:** Chaitanyakishore.cherukuri@gmail.com 
+* **Phone:** 7745257509 
+
 Experienced QA professional with a strong background in manual and automation testing, focusing on banking applications. Successfully contributed to defect reduction using Microsoft Dynamics 365 CRM. Completed projects in database validation, accessibility testing with NVDA, and PLC-based AGV automation. Skilled in Python, SQL, Power BI, Azure, and currently pursuing a Master's in Data Analytics.
 
 ## About Me
@@ -63,9 +68,17 @@ I am a dedicated QA professional with experience at Tata Consultancy Services (T
 
 ## Others projects
 
-### Chronic Disease & Premature Mortality Analysis using Python programming
+## Chronic Disease & Premature Mortality Analysis using Python programming
 
-This project analyzes the correlation between chronic diseases and premature mortality across U.S. states using CDC data from 2010–2023. The analysis identifies demographic and regional disparities influenced by poverty and lack of insurance.
+* This project analyzes the correlation between chronic diseases and premature mortality across U.S. states using CDC data from 2010–2023. The analysis identifies demographic and regional disparities influenced by poverty and lack of insurance.
+
+🎯 Objectives
+- Analyze trends in chronic disease prevalence.
+- Examine demographic disparities in premature mortality.
+- Identify high-risk states and regions.
+- Correlate poverty and insurance status with death rates.
+- Provide visual insights to inform healthcare policy and reform.
+
 **Data Source:** [CDC Chronic Disease Indicators Dataset](https://chronicdata.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-CDI-2023-Release/g4ie-h725)  
 **Tools Used:** Python, Jupyter Notebook  
 **Modules:** pandas, matplotlib, seaborn  
@@ -73,7 +86,7 @@ This project analyzes the correlation between chronic diseases and premature mor
 
 
 
-### Automated Fire Fighting AGV Using Digital Controller 
+## Automated Fire Fighting AGV Using Digital Controller 
 * Collaborated with a team to design and implement PLC code for an Automated Fire Fighting AGV using sensor and device inputs based on a finalized operational model. 
 * Debugged and tested the PLC program to ensure functionality aligned with the designed model and project requirements. 
 
@@ -85,7 +98,4 @@ Clark University, Worcester, MA - 2025
 **B-Tech** 
 Sir C R Reddy College of Engineering, Eluru - 2020 
 
-## Contact Me
 
-* **Email:** Chaitanyakishore.cherukuri@gmail.com 
-* **Phone:** 7745257509 
