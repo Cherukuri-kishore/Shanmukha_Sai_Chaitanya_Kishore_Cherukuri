@@ -1,6 +1,7 @@
 # Shanmukha Sai Chaitanya Kishore, Cherukuri
 
 Data Enthusiast & ML Practitioner | Exploring AI, Splunk, MSCRM & UI/UX | Transforming Data into Actionable Insights with Python, SQL & ML
+
 Experienced QA professional with a strong background in manual and automation testing, focusing on banking applications. Successfully contributed to defect reduction using Microsoft Dynamics 365 CRM. Completed projects in database validation, accessibility testing with NVDA, and PLC-based AGV automation. Skilled in Python, SQL, Power BI, Azure, and currently pursuing a Master's in Data Analytics.
 
 ## Contact Me
